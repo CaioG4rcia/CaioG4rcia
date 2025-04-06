@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=164&color=ff00ff%"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=184&color=ff00ff%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00ff&size=35&center=true&vCenter=true&width=1000&lines=Olá+Meu+Nome+é+Caio+Garcia;Sou+Desenvolvedor+Full-Stack.;Sejam+Bem-Vindo!!!!)](https://git.io/typing-svg) 
 
@@ -26,8 +26,6 @@
 
 📖 No momento, estou me aprofundando em C#, aprimorando minha lógica e explorando os recursos da linguagem dentro do ecossistema .NET.
 
-<h3>Meios de Contato</h3>
-✉️ Estou disponível para contato nas redes sociais listadas abaixo!
 
 <div/><br>
 
