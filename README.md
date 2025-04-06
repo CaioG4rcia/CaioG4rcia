@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=148&color=ff00ff%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00ff&size=35&center=true&vCenter=true&width=1000&lines=Olá+Meu+Nome+é+Caio+Garcia;Sou+Desenvolvedor+Full-Stack.;Sejam+Bem-Vindo!!!!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00ff&size=35&center=true&vCenter=true&width=1000&lines=Olá+Meu+Nome+é+Caio+Garcia;Sou+Desenvolvedor+Full-Stack.;Sejam+Bem-VindoS!!!!)](https://git.io/typing-svg) 
 
 <img src="https://images.icon-icons.com/2620/PNG/512/among_us_player_pink_icon_156938.png" 
      alt="ilustração de um computador" 
