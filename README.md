@@ -31,38 +31,11 @@
 
 <div/><br>
 
-<div align="center">
-  <h3>Minhas Redes de Contato: </h3>
-  <a href="https://www.linkedin.com/in/ricardomatos-developer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  
-  <a href="caiogarciadossantos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
 
-<hr/>
-
-<div align="center">  
-  
-
-   <a href="https://github.com/CaioG4rcia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioG4rcia&show_icons=true&theme=pink&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioG4rcia&layout=compact&langs_count=16&theme=pink"/>
-
-  <br><br>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioG4rcia&bg_color=ffffff&color=818181&line=818181&point=818181&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CaioG4rcia&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</p>
-   
-<div/>
 
 <br>
 
-## Tecnologias que mais uso
-
+<h1 align="center"> Tecnologias que mais uso</h1>
 <div/>
 
 <div align="center">
